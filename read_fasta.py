@@ -1,5 +1,6 @@
 import sys
 
+# function to read fasta files
 def read_fasta(filename):
     sequence = ''
     f = open(filename)
