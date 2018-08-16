@@ -1,5 +1,6 @@
 import sys
 
+#another commet to test branch changes
 # function to read fasta files
 def read_fasta(filename):
     sequence = ''
